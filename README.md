@@ -5,13 +5,7 @@
 </h3> -->
 
 <p align="center">
-<p align="center">
-  <span style="font-size:34px;font-weight:bold;vertical-align:middle;">|</span>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1500&color=38BDF8&vCenter=true&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications"
-    style="vertical-align:middle;"
-  />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1500&color=38BDF8&center=true&vCenter=true&width=950&lines=%7C+Welcome+to+my+GitHub+Profile;%7C+Full+Stack+Developer;%7C+MERN+Stack+Developer;%7C+Building+Modern+Web+Applications" /> </p>
 </p>
 
 ---
