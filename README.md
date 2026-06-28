@@ -51,17 +51,6 @@ To build reliable software that solves real-world problems while continuously gr
 
 ---
 
-## 💬 Ask Me About
-
-- Full Stack Development  
-- MERN Stack  
-- JavaScript  
-- Node.js & Express.js  
-- MongoDB  
-- Git & GitHub  
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
