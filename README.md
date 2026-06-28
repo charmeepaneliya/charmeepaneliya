@@ -118,9 +118,9 @@ My goal is to become a skilled **Full Stack Developer** by creating scalable web
 
 ---
 
-# 💭 My Motto
+✍️ Developer Quote
 
-> **"Consistency, curiosity, and continuous learning are the keys to becoming a great developer."** 🚀
+"Building, learning, and growing as a developer every day." 🚀
 
 ---
 
