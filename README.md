@@ -97,7 +97,7 @@ My goal is to become a skilled **Full Stack Developer** by creating scalable web
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=charmeepaneliya&theme=tokyonight" />
 </p>
 
 ---
