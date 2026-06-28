@@ -1,11 +1,13 @@
 <h1 align="center">✨ Hello, I'm Charmee Paneliya ✨</h1>
 
-<h3 align="center">
+<!-- <h3 align="center">
 🚀 Full Stack Developer • MERN Stack Enthusiast • Building Scalable Web Applications
-</h3>
+</h3> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Code;Full+Stack+Developer;MERN+Stack+Developer;Always+Learning+Something+New+🚀" />
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;MERN+Stack+Developer;Open+to+Learning+and+Collaboration" />
+</p>
 </p>
 
 ---
