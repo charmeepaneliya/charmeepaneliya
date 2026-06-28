@@ -97,7 +97,7 @@ My goal is to become a skilled **Full Stack Developer** by creating scalable web
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charmeepaneliya&theme=react-dark" />
+  <img src="https://ghchart.rshah.org/charmeepaneliya" />
 </p>
 
 ---
