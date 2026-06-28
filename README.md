@@ -110,7 +110,8 @@ My goal is to become a skilled **Full Stack Developer** by creating scalable web
 </a>
 
 <a href="mailto:cpjstudy28@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img width="937" height="240" alt="Screenshot 2026-06-28 232414" src="https://github.com/user-attachments/assets/7bdfcc43-e83a-41f3-b827-26dab1bb60e7" />
+
 </a>
 </p>
 
