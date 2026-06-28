@@ -68,12 +68,6 @@ To build reliable software that solves real-world problems while continuously gr
 
 <div align="center">
 
-### 💡 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,c,cpp" />
-</p>
-
 ### 🎨 Frontend
 
 <p>
