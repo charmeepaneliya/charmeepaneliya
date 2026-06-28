@@ -1,16 +1,12 @@
-<h1>Hi 👋, I'm Charmee Paneliya</h1>
-
-<!-- <h3 align="center">
-🚀 Full Stack Developer • MERN Stack Enthusiast • Building Scalable Web Applications
-</h3> -->
+<h1 align="center">Hi 👋, I'm Charmee Paneliya</h1>
 
 <p align="center">
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;MERN+Stack+Developer;Open+to+Learning+and+Collaboration" /> </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;MERN+Stack+Developer;Open+to+Learning+and+Collaboration" />
 </p>
 
 ---
 
-# 🚀 Who Am I?
+## 🚀 Who Am I?
 
 Hi! I'm **Charmee Paneliya**, a passionate **Full Stack Developer** who enjoys creating modern, scalable, and user-friendly web applications using the **MERN Stack**.
 
@@ -18,49 +14,49 @@ I love transforming ideas into functional applications and continuously improvin
 
 ---
 
-# 🎯 My Vision
+## 🎯 My Vision
 
 To build reliable software that solves real-world problems while continuously growing as a developer and embracing new technologies.
 
 ---
 
-# 💼 What I'm Building
+## 💼 What I'm Building
 
-- 🔐 Authentication & Authorization Systems
-- 🌐 Full Stack MERN Applications
-- ⚡ RESTful APIs with Node.js & Express.js
-- ☁️ MongoDB Atlas Integration
-- 🔑 Google OAuth using Passport.js
-
----
-
-# 🌱 Currently Exploring
-
-- 🚀 Building Full Stack MERN Applications
-- ⚡ Backend Development with Node.js & Express.js
-- 🗄️ Working with MongoDB & MongoDB Atlas
-- 🔐 Authentication & Authorization (JWT, Google OAuth)
-- 📚 Strengthening JavaScript Fundamentals
+- 🔐 Authentication & Authorization Systems  
+- 🌐 Full Stack MERN Applications  
+- ⚡ RESTful APIs with Node.js & Express.js  
+- ☁️ MongoDB Atlas Integration  
+- 🔑 Google OAuth using Passport.js  
 
 ---
 
-# 🤝 Open to Collaborate
+## 🌱 Currently Exploring
 
-- MERN Stack Projects
-- Open Source Contributions
-- Backend Development
-- Full Stack Web Applications
+- 🚀 Full Stack MERN Applications  
+- ⚡ Backend Development with Node.js & Express.js  
+- 🗄️ MongoDB & MongoDB Atlas  
+- 🔐 JWT & Google OAuth Authentication  
+- 📚 Strengthening JavaScript Fundamentals  
 
 ---
 
-# 💬 Ask Me About
+## 🤝 Open to Collaborate On
 
-- Full Stack Development
-- MERN Stack
-- JavaScript
-- Node.js & Express.js
-- MongoDB
-- Git & GitHub
+- MERN Stack Projects  
+- Open Source Contributions  
+- Backend Development  
+- Full Stack Web Applications  
+
+---
+
+## 💬 Ask Me About
+
+- Full Stack Development  
+- MERN Stack  
+- JavaScript  
+- Node.js & Express.js  
+- MongoDB  
+- Git & GitHub  
 
 ---
 
@@ -87,14 +83,15 @@ To build reliable software that solves real-world problems while continuously gr
 
 ---
 
-# 🌟 Development Vision
+## 🌟 Development Vision
 
-🎯 I believe that great software is built through continuous learning, practical experience, and writing clean, maintainable code.
+🎯 I believe great software is built through continuous learning, practical experience, and clean code practices.
 
-My goal is to become a skilled **Full Stack Developer** by creating scalable web applications, contributing to impactful projects, and constantly improving my problem-solving abilities with modern technologies.
+My goal is to become a skilled **Full Stack Developer** by creating scalable web applications, contributing to impactful projects, and improving my problem-solving abilities with modern technologies.
+
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -110,17 +107,23 @@ My goal is to become a skilled **Full Stack Developer** by creating scalable web
 
 ---
 
+## 🌐 Let's Connect
 
+<p align="left">
+<a href="https://www.linkedin.com/in/charmee-paneliya-19552538a" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# 🌐 Let's Connect
-
-<p align="left"> <a href="https://www.linkedin.com/in/charmee-paneliya-19552538a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:cpjstudy28@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
+<a href="mailto:cpjstudy28@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-# ✍️ Developer Quote
+## ✍️ Developer Quote
 
-"Building, learning, and growing as a developer every day." 🚀
+> "Building, learning, and growing as a developer every day." 🚀
 
 ---
 
