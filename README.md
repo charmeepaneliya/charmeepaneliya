@@ -96,10 +96,6 @@ My goal is to become a skilled **Full Stack Developer** by creating scalable web
 <img src="https://streak-stats.demolab.com?user=charmeepaneliya&theme=tokyonight"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://ghchart.rshah.org/013220/charmeepaneliya" />
-</p> -->
-
 <p align="center">
   <img width="1012" height="230" alt="image" src="https://github.com/user-attachments/assets/284e779c-abec-4058-946b-7c47b3fd239d" />
 
