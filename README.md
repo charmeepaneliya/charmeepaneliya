@@ -120,20 +120,7 @@ My goal is to become a skilled **Full Stack Developer** by creating scalable web
 </a>
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/charmee-paneliya-19552538a"
-     target="_blank"
-     rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:cpjstudy28@gmail.com"
-     target="_blank"
-     rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
+<p align="left"> <a href="https://www.linkedin.com/in/charmee-paneliya-19552538a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:cpjstudy28@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
 ---
 
 # 💭 My Motto
