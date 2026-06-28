@@ -36,12 +36,11 @@ To build reliable software that solves real-world problems while continuously gr
 
 # 🌱 Currently Exploring
 
-- Advanced Node.js
-- Next.js
-- TypeScript
-- Docker
-- Software Architecture
-- Cloud Deployment
+- 🚀 Building Full Stack MERN Applications
+- ⚡ Backend Development with Node.js & Express.js
+- 🗄️ Working with MongoDB & MongoDB Atlas
+- 🔐 Authentication & Authorization (JWT, Google OAuth)
+- 📚 Strengthening JavaScript Fundamentals
 
 ---
 
@@ -56,19 +55,18 @@ To build reliable software that solves real-world problems while continuously gr
 
 # 💬 Ask Me About
 
+- Full Stack Development
+- MERN Stack
 - JavaScript
-- React
-- Node.js
-- Express.js
+- Node.js & Express.js
 - MongoDB
-- REST APIs
-- JWT Authentication
-- Google OAuth
 - Git & GitHub
 
 ---
 
-# 🛠️ Development Toolkit
+## 🛠️ Development Toolkit
+
+<div align="center">
 
 ### 💡 Programming Languages
 
@@ -76,13 +74,13 @@ To build reliable software that solves real-world problems while continuously gr
   <img src="https://skillicons.dev/icons?i=javascript,c,cpp" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -94,11 +92,13 @@ To build reliable software that solves real-world problems while continuously gr
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### 🔧 Development Tools
+### 🔧 Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
+</div>
 
 ---
 
@@ -125,13 +125,7 @@ My goal is to become a skilled **Full Stack Developer** by creating scalable web
 
 ---
 
-# 🏆 Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=charmeepaneliya&theme=tokyonight&no-frame=true"/>
-</p>
-
----
 
 # 🌐 Let's Connect
 
