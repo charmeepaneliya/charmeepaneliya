@@ -114,13 +114,8 @@ My goal is to become a skilled **Full Stack Developer** by creating scalable web
 
 # 🌐 Let's Connect
 
-<p align="left">
-<a href="https://www.linkedin.com/in/charmee-paneliya-19552538a">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-</p>
-
 <p align="left"> <a href="https://www.linkedin.com/in/charmee-paneliya-19552538a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:cpjstudy28@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
+
 ---
 
 # 💭 My Motto
