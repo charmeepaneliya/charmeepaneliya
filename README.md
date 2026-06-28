@@ -97,9 +97,7 @@ My goal is to become a skilled **Full Stack Developer** by creating scalable web
 </p>
 
 <p align="center">
-  <img src="sandbox:/mnt/data/f4828890-1474-400e-b39b-20cf7f539fe5.png" 
-       alt="GitHub Contributions Graph" 
-       width="900" />
+  <img src="sandbox:/mnt/data/f4828890-1474-400e-b39b-20cf7f539fe5.png" alt="GitHub Contributions Graph" width="800"/>
 </p>
 
 ---
