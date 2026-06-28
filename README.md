@@ -118,9 +118,9 @@ My goal is to become a skilled **Full Stack Developer** by creating scalable web
 
 ---
 
-✍️ Developer Quote
+# ✍️ Developer Quote
 
-"Building, learning, and growing as a developer every day." 🚀
+## "Building, learning, and growing as a developer every day." 🚀
 
 ---
 
