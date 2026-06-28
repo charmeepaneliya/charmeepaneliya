@@ -68,38 +68,45 @@ To build reliable software that solves real-world problems while continuously gr
 
 ---
 
-# ⚙️ Tech Toolbox
+# 🛠️ Development Toolkit
 
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,java,c,cpp" />
-</p>
-
-### 🎨 Frontend
+### 💡 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=javascript,c,cpp" />
 </p>
 
-### 🛠 Backend
+### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
-### 🗄 Database
+### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🔧 Tools
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
+### 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 🌟 Development Vision
+
+🎯 I believe that great software is built through continuous learning, practical experience, and writing clean, maintainable code.
+
+My goal is to become a skilled **Full Stack Developer** by creating scalable web applications, contributing to impactful projects, and constantly improving my problem-solving abilities with modern technologies.
 ---
 
 # 📊 GitHub Analytics
