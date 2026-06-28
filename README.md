@@ -97,7 +97,7 @@ My goal is to become a skilled **Full Stack Developer** by creating scalable web
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/161b22/charmeepaneliya" />
+  <img src="https://ghchart.rshah.org/013220/charmeepaneliya" />
 </p>
 
 ---
