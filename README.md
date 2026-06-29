@@ -5,7 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;MERN+Stack+Developer;Open+to+Learning+and+Collaboration" />
 </p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;MERN+Stack+Developer;Open+to+Learning+and+Collaboration" />|
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;MERN+Stack+Developer;Open+to+Learning+and+Collaboration" />
+  <span style="font-size:24px; color:#38BDF8;">|</span>
 </p>
 
 
